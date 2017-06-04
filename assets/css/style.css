@@ -1,0 +1,33 @@
+#gameScreen{
+    display: none;
+    background-color: darkseagreen;
+    padding: 15px;
+}
+
+#instructions{
+    border-style: groove;
+    border-width: 5px;
+    font-size: 15px;
+}
+
+.center {
+    text-align: center;
+}
+
+body{
+    background-image: url(../images/hound1.jpg);
+}
+
+#instructions{
+    background-color: darkgrey;
+}
+
+#qOrA, #options{
+    font-size: 25px;
+}
+
+img{
+    text-align: left;
+    height: 200px;
+    width: 200px;
+}
